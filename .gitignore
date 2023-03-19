@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+/e-book-server
 .pnp.js
 
 # testing
